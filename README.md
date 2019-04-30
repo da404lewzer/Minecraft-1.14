@@ -7,10 +7,10 @@ Download fabric installer at: **https://fabricmc.net/use/**
 
 Select "**Vanilla**" and choose "**Download installer (Universal/.JAR)**"
 
-1. After download run the jar. 
-2. It should show you your minecraft path. 
-3. Click Install. 
-4. Close the installer if it's still open and open the Minecraft Launcher.
+1. After download run the jar
+2. It should show you your minecraft path
+3. Click Install
+4. Close the installer if it's still open and open the Minecraft Launcher
 
 ## Setting up the mods folder the lazy way:
 After Fabric Install you should see a new profile for fabric. 
@@ -22,7 +22,7 @@ After Fabric Install you should see a new profile for fabric.
 ## Mods:
 If you followed the above instructions you will put the mods in **.minecraft_fabric\mods**.
 
-Shortcut: Press **Win+R** and paste **%appdata%\.minecraft_fabric\mods** and hit enter
+Shortcut: Press **Win+R** and paste **%appdata%\\.minecraft_fabric\\mods** and hit enter
 
 ### Realms Compatible Mods
 * HWYLA (WAILA replacement) - https://minecraft.curseforge.com/projects/hwyla
