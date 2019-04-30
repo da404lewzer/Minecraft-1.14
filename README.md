@@ -10,12 +10,12 @@ Select "**Vanilla**" and choose "**Download installer (Universal/.JAR)**"
 1. After download run the jar
 2. It should show you your minecraft path
 3. Click Install
-4. Close the installer if it's still open and open the Minecraft Launcher
+4. Close the fabric installer if it's still open and open the Minecraft Launcher
 
 ## Setting up the mods folder the lazy way:
-After Fabric Install you should see a new profile for fabric. 
-1. Edit the profile under settings
-2. Change it's directory to **.minecraft_fabric** (we do this so we don't clash with forge mods in the future)
+After Fabric Install open the Minecraft Launcher, you should see a new profile for **Fabric 1.14** *(fabric-loader-x.x.x+build.x-1.14+build.x)*
+1. Edit the profile under **Launch Options**
+2. Change the profile's game directory from ending with **.minecraft** to **.minecraft_fabric** (we do this so we don't clash with forge mods in the future)
 3. Save everything and launch the profile. This will create the mods folder and setup everything for you
 4. Once the game loads and you see the menu, close Minecraft
 
