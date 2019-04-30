@@ -25,9 +25,9 @@ If you followed the above instructions you will put the mods in **.minecraft_fab
 Shortcut: Press **Win+R** and paste **%appdata%\\.minecraft_fabric\\mods** and hit enter
 
 ### Realms Compatible Mods
+* Mod Menu (Verify Mods Are Installed) - https://minecraft.curseforge.com/projects/modmenu
+* Light Overlay (Shows where mobs can spawn) - https://minecraft.curseforge.com/projects/light-overlay
 * HWYLA (WAILA replacement) - https://minecraft.curseforge.com/projects/hwyla
+* REI (NEI replacement) - https://minecraft.curseforge.com/projects/roughly-enough-items
 * Apple Skin (Food saturation vis) - https://minecraft.curseforge.com/projects/appleskin
 * Mappy (Simple HUD Map until VoxelMap releases) - https://minecraft.curseforge.com/projects/mappy
-* REI (NEI replacement) - https://minecraft.curseforge.com/projects/roughly-enough-items
-* Mod Menu (Verify Mods Were Installed) - https://minecraft.curseforge.com/projects/modmenu
-* Light Overlay (Shows where mobs can spawn) - https://minecraft.curseforge.com/projects/light-overlay
