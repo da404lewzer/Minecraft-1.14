@@ -31,3 +31,4 @@ Shortcut: Press **Win+R** and paste **%appdata%\\.minecraft_fabric\\mods** and h
 * REI (NEI replacement) - https://minecraft.curseforge.com/projects/roughly-enough-items
 * Apple Skin (Food saturation vis) - https://minecraft.curseforge.com/projects/appleskin
 * Mappy (Simple HUD Map until VoxelMap releases) - https://minecraft.curseforge.com/projects/mappy
+* Giselbaer's Durability Viewer - https://minecraft.curseforge.com/projects/giselbaers-durability-viewer
