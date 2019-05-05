@@ -36,6 +36,8 @@ Shortcut: Press **Win+R** and paste **%appdata%\\.minecraft_fabric\\mods** and h
 ### Config Changes
 After the game launches it will create configs in **.minecraft_fabric\config**.
 
+Here are the best configs I could come up with that don't get in the way of seeing F3 coordinates or Beacon/Potion Effects:
+
 #### Giselbaer's Durability Viewer
 Modify *defaultValue* under **HUD Corner** to 1 (bottom left) in ***config\durabilityviewer.json***
 ```
@@ -49,3 +51,6 @@ Modify *defaultValue* under **HUD Corner** to 1 (bottom left) in ***config\durab
     "maxValue": 3
   },
 ```
+
+#### Giselbaer's Durability Viewer
+Modify *drawPosition* to 4 (bottom right) in ***config\mappy\mappy.cfg***
