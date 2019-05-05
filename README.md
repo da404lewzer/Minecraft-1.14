@@ -32,3 +32,20 @@ Shortcut: Press **Win+R** and paste **%appdata%\\.minecraft_fabric\\mods** and h
 * Apple Skin (Food saturation vis) - https://minecraft.curseforge.com/projects/appleskin
 * Mappy (Simple HUD Map until VoxelMap releases) - https://minecraft.curseforge.com/projects/mappy
 * Giselbaer's Durability Viewer - https://minecraft.curseforge.com/projects/giselbaers-durability-viewer
+
+### Config Changes
+After the game launches it will create configs in **.minecraft_fabric\config**.
+
+#### Giselbaer's Durability Viewer
+Modify *defaultValue* under **HUD Corner** to 1 (bottom left) in ***config\durabilityviewer.json***
+```
+{
+  "HUD Corner": {
+    "key": "HUD Corner",
+    "toolTip": "Corner 0 to 3 - bottom right, bottom left, top right, top left",
+    "value": 1,
+    "defaultValue": 0,
+    "minValue": 0,
+    "maxValue": 3
+  },
+```
