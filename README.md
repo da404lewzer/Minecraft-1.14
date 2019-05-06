@@ -27,11 +27,21 @@ Shortcut: Press **Win+R** and paste **%appdata%\\.minecraft_fabric\\mods** and h
 ### Realms Compatible Mods
 * Mod Menu (Verify Mods Are Installed) - https://minecraft.curseforge.com/projects/modmenu
 * Light Overlay (Shows where mobs can spawn) - https://minecraft.curseforge.com/projects/light-overlay
+  * Press **F7** to toggle overlay
 * HWYLA (WAILA replacement) - https://minecraft.curseforge.com/projects/hwyla
+  * Shows item names and mob health when you look at them.
 * REI (NEI replacement) - https://minecraft.curseforge.com/projects/roughly-enough-items
+  * An alternative to the in-game recipe book. Press **O** to toggle
 * Apple Skin (Food saturation vis) - https://minecraft.curseforge.com/projects/appleskin
+  * Shows you how good each food item is and how it will affect your character.
 * Mappy (Simple HUD Map until VoxelMap releases) - https://minecraft.curseforge.com/projects/mappy
+  * First 1.14 Minimap! *See Config Changes below*
 * Giselbaer's Durability Viewer - https://minecraft.curseforge.com/projects/giselbaers-durability-viewer
+  * Shows armor, tool and offhand durability, and empty inventory slot count in the corner. *See Config Changes below*
+* Block Meter (A Tape Measure)- https://minecraft.curseforge.com/projects/block-meter
+  * Hold an item like a stick, press **M** to toggle role assignment. **Right click** to set start/stop points while assigned.
+* Shulker Box Tooltip (Preview without placement) - https://minecraft.curseforge.com/projects/shulkerboxtooltip
+  * Hold **Shift** while hovering mouse over shulker box to preview contents
 
 ### Config Changes
 After the game launches it will create configs in **.minecraft_fabric\config**.
